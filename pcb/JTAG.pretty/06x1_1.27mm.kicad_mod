@@ -1,0 +1,116 @@
+(footprint "06x1_1.27mm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2030-IDC-NL.pdf")
+	(tags "tag connect programming header pogo pins")
+	(property "Reference" "J1"
+		(at 2.78 0.68 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "ec5197be-e7f5-43b5-a0d3-59e270bcef0c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "ISP"
+		(at 1.46 0.51 -90)
+		(layer "F.SilkS")
+		(uuid "dbb51168-ee4d-4273-83d5-5a9e51b1a311")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "06x1_1.27mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8fcdaad2-bb41-46f3-a3f8-a457e695abab")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" " ~"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "24cce75a-38f6-486c-886d-e0420562e0d7")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "Atmel 6-pin ISP connector"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "034fe642-84eb-4755-941c-4d57991a34fd")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(zone_connect 2)
+	(attr smd exclude_from_pos_files exclude_from_bom)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(uuid "a3aed86f-87de-43e4-94d3-0dc2c678fe9c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" connect circle
+		(at -2.54 0.64)
+		(size 0.7874 0.7874)
+		(layers "F.Cu" "F.Mask")
+		(uuid "92b4be9d-664a-45f3-b1d5-0773bcef9de3")
+	)
+	(pad "2" connect circle
+		(at -5.08 0.64)
+		(size 0.7874 0.7874)
+		(layers "F.Cu" "F.Mask")
+		(uuid "ca078984-0c9a-49f0-bcdb-75ac6f6cb611")
+	)
+	(pad "3" connect circle
+		(at -3.81 0.64)
+		(size 0.7874 0.7874)
+		(layers "F.Cu" "F.Mask")
+		(uuid "5cf68460-11ef-4fa6-9e8b-dd80aba48c54")
+	)
+	(pad "4" connect circle
+		(at -1.27 0.635)
+		(size 0.7874 0.7874)
+		(layers "F.Cu" "F.Mask")
+		(uuid "af724fcf-be25-484b-bafc-c7bfc90d29c9")
+	)
+	(pad "5" connect circle
+		(at 0 0.635)
+		(size 0.7874 0.7874)
+		(layers "F.Cu" "F.Mask")
+		(uuid "d1b85d8a-722a-4a4b-aaba-67ad01286b59")
+	)
+	(pad "6" connect circle
+		(at -6.35 0.635)
+		(size 0.7874 0.7874)
+		(layers "F.Cu" "F.Mask")
+		(uuid "11f0d332-456e-4b20-a3d5-7dce72384478")
+	)
+)

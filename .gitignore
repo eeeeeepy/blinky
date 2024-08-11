@@ -66,3 +66,7 @@ bom/
 out/
 
 # End of https://www.toptal.com/developers/gitignore/api/atmelstudio,kicad
+
+# Production files
+production
+fabrication-toolkit-options.json

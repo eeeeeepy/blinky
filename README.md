@@ -8,3 +8,4 @@ You can get this badge made and assembled by PCBWay [here](https://www.pcbway.co
 
 ## Programming
 ![](https://github.com/eepykami/blinky-badge/blob/main/pics/4.jpg?raw=true)
+![](https://github.com/eepykami/blinky-badge/blob/main/pics/5.png?raw=true)

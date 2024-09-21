@@ -7,5 +7,6 @@ You can get this badge made and assembled by PCBWay [here](https://www.pcbway.co
 ![](https://github.com/eepykami/blinky-badge/blob/main/pics/3.jpg?raw=true)
 
 ## Programming
+I use an adapter like [this](https://pl.aliexpress.com/item/1005005300697130.html) for programming. I use a USBASP adapter and avrdude, but an Arduino as ISP or other ISP programmer should work too.
 ![](https://github.com/eepykami/blinky-badge/blob/main/pics/4.jpg?raw=true)
 ![](https://github.com/eepykami/blinky-badge/blob/main/pics/5.png?raw=true)

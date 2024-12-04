@@ -1,10 +1,3 @@
-/*
- * blinky.c
- *
- * Created: 05/05/2024 00:58:09
- * Author : kami
- */ 
-
 // Assuming default ATTiny13A clock config - 9.6MHz, with clock division enabled
 #define F_CPU 1200000
 
@@ -27,4 +20,3 @@ int main(void)
 	}
 	return 0;	
 }
-

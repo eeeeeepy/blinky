@@ -1,5 +1,5 @@
 // Assuming default ATTiny13A clock config - 9.6MHz, with clock division enabled
-#define F_CPU 1200000
+// F_CPU set in Makefile
 
 #include <avr/io.h>
 #include <util/delay.h>

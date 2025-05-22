@@ -9,7 +9,6 @@ You can get this badge made and assembled by PCBWay [here](https://www.pcbway.co
 ![](https://github.com/eepykami/blinky-badge/blob/main/pics/2.jpg?raw=true)
 
 ## Programming
-https://pl.aliexpress.com/item/1005005732753061.html
 
 I use a 6 pin, 1,27mm pitch pogo pin adapter like [this](https://pl.aliexpress.com/item/1005005300697130.html) for programming. You could also solder wires to the pads, or use something else with the same pitch. Any ISP programmer, such as USBASP or Arduino as ISP should work.  
 

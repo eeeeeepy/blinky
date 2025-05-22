@@ -1,5 +1,8 @@
 # blinky
-Little name badge sized PCB to make LEDs go blinky, using an ATTINY13A and a CR2032 battery.
+Little name badge sized PCB to make LEDs go blinky, using an ATTINY13A and a CR2032 battery.  
+
+My first proper microcontroller and PCB design, made for a convention that I ended up not attending. Hopefully it can be of use to others out there.  
+
 You can get this badge made and assembled by PCBWay [here](https://www.pcbway.com/project/shareproject/blink_y_badge_168d32d1.html)!
 
 ![](https://github.com/eepykami/blinky-badge/blob/main/pics/1.gif?raw=true)
